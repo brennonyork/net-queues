@@ -1,10 +1,6 @@
 # net-queues
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
+A self-contained Clojure application to launch a network-based durable queueing system.
 
 ## License
 
